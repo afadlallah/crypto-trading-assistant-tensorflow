@@ -4,7 +4,7 @@ newsapi-python==0.2.7
 nltk==3.9.3
 pandas==2.2.2
 plotly==5.22.0
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 requests==2.33.0
 scikit-learn==1.5.1
 streamlit==1.54.0
